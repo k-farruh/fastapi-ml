@@ -1,5 +1,5 @@
 # ML web service on FastAPI
-
+[Article](https://habr.com/ru/articles/729380/)
 This repository contains the files to build your own Machine Learning web application! 
 
 In this example we use NLP sentiment-analysis model from Hugging Face Hub. However the described code structure can be used for any machine learning problem. 
